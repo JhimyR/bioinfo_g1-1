@@ -20,7 +20,7 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 - Git
 - Python
 - R
-
+Definición de Python Essentials
 
 
 ## PARTICIPANTES
@@ -28,11 +28,12 @@ Este es el repositorio para los recursos de clase del grupo 1 de Bioinformática
 1. Evelyng Vasquez
 2. Joshue Ruiz 
 3. Lisbeth Alvarado
+4. Jhimy Siquihua
 
 ## INFORMACIÓN ADICIONAL
 
-- Página de la Univerdidad de Cambridge para entrenamiento en Bioinformática: <https://bioinfotraining.bio.cam.ac.uk/>
-
+<https://bioinfotraining.bio.cam.ac.uk/>
+<https://www.cec-epn.edu.ec/cursos/categorias/python>
 
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
